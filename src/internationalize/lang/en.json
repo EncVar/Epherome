@@ -1,5 +1,5 @@
 {
-    "name": "Deutsch",
+    "name": "English",
     "body": {
         "status": {
             "loading": "Loading..."
@@ -66,7 +66,6 @@
             "account": "Account",
             "profile": "Profile",
             "unselected": "Unselected"
-
         }
     }
 }
