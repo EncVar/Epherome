@@ -68,11 +68,11 @@
             "unselected": "未选择"
         },
         "sidebar": {
-            "home": "Home",
-            "counter": "Counter",
-            "accounts": "Accounts",
-            "profiles": "Profiles",
-            "settings": "Settings"
+            "home": "首页",
+            "counter": "计数器",
+            "accounts": "游戏账户",
+            "profiles": "游戏配置",
+            "settings": "设置"
         }
     }
 }
