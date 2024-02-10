@@ -21,7 +21,7 @@
                 "create": "创建",
                 "cancel": "取消",
                 "ensureRemove": "是否确定删除账号 %s ?",
-                "selectAccount": "在左侧打开一个账户或创建一个新账户。"
+                "selectAccount": "在左侧选中一个游戏账户或创建一个游戏账户"
             },
             "noAccount": "没有游戏账户"
         },
@@ -32,7 +32,7 @@
                 "version": "版本"
             },
             "action": {
-                "browse": "Browse",
+                "browse": "选择",
                 "remove": "Remove",
                 "create": "Create",
                 "cancel": "Cancel",
@@ -62,10 +62,10 @@
             "increase": "Increase"
         },
         "home": {
-            "launch": "Launch",
+            "launch": "启动游戏",
             "account": "Account",
             "profile": "Profile",
-            "unselected": "Unselected"
+            "unselected": "未选择"
         }
     }
 }
